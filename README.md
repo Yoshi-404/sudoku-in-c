@@ -42,7 +42,7 @@ Um jogo de Sudoku jogável via terminal escrito em C. Este projeto foi desenvolv
 
 O jogo permite jogar, validar entradas (linhas, colunas e quadrantes), resolver passos automaticamente, além de salvar e carregar o progresso do usuário utilizando manipulação de arquivos (arquivos binários e de texto `.txt`).
 
-## 🚀 Como compilar e jogar
+## Como compilar e jogar
 
 Para rodar este projeto localmente, você precisará de um compilador C instalado na sua máquina, como o GCC.
 
